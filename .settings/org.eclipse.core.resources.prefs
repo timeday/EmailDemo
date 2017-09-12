@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/pass.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/successs.jsp=UTF-8
+encoding//src/org/amuxia/emailtest/pojo/User.java=UTF-8
+encoding//src/org/amuxia/emailtest/servlet/ActivateServlet.java=UTF-8
+encoding//src/org/amuxia/emailtest/servlet/RegistServlet.java=UTF-8
+encoding//src/org/amuxia/emailtest/utils/EmailUtils.java=UTF-8
+encoding//src/org/amuxia/emailtest/utils/GenerateLinkUtils.java=UTF-8
+encoding//src/org/amuxia/emailtest/utils/MyJDBC.java=UTF-8
